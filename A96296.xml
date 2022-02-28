@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Funerall obsequies, to the Right Honourable the Lady Elizabeth Hopton. By Edvvard VVhatman.</title>
+            <author>Whatman, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96296</idno>
+            <idno type="STC">Wing W1591</idno>
+            <idno type="STC">Thomason E384_14</idno>
+            <idno type="STC">ESTC R201453</idno>
+            <idno type="EEBO-CITATION">99861959</idno>
+            <idno type="PROQUEST">99861959</idno>
+            <idno type="VID">114105</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114105)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E384[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Funerall obsequies, to the Right Honourable the Lady Elizabeth Hopton. By Edvvard VVhatman.</title>
+                  <author>Whatman, Edward.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "London 20 Aprill".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Elizabeth, --  Lady, 1591-1646 --  Death and burial --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114105:1"/>
+            <pb facs="tcp:114105:1" rendition="simple:additions"/>
+            <p>FUNERALL OBSEQVIES, TO THE Right Honourable THE LADY <hi>ELIZABETH HOPTON.</hi>
+            </p>
+            <p>By EDVVARD VVHATMAN.</p>
+            <figure>
+               <figDesc>printer's decorative illustration</figDesc>
+            </figure>
+            <p>Imprinted at London, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:114105:2"/>
+            <pb n="1" facs="tcp:114105:2"/>
+            <head>FVNERALL OBSEQVIES.</head>
+            <lg>
+               <l>SToln to the grave? Then let me ſigh, and dye,</l>
+               <l>And ſepulchr'd in mine own Carcaſſe lye;</l>
+               <l>But that were Bliſſe: Calamity keeps ſtate,</l>
+               <l>And comes attended by another Fate:</l>
+               <l>So the firſt fatall fall from Paradiſe,</l>
+               <l>Open'd the caſements of our Grandſirs eyes,</l>
+               <l>And turn'd their bleſſing to their ſcourge. To know</l>
+               <l>Us wretched, is far worſe then to be ſo.</l>
+               <l>A griefe unknowne is heal'd. Thus our loſſe drawes</l>
+               <l>That pleaſing curtaine interpoſed was,</l>
+               <l>And makes the world tranſparent. Now, we ſpy</l>
+               <l>Our joyes are languiſh't to deformity;</l>
+               <l>All Creatures (the earth's ſucklings) ſeeme to be</l>
+               <l>But Hieroglyphicks of Mortality:</l>
+               <l>Houſes are graves, where moving Corpſes dwell;</l>
+               <l>For who can ſay he lives, that knowes ſhe fell?</l>
+               <l>But ſtay, raſh pen, this blaſphemy recall,</l>
+               <l>The vanquiſh't, not the Conquerors doe fall.</l>
+               <l>Death, which (with falſer Opticks) doth appeare</l>
+               <l>Mighty and dreadfull, brought no terrors here.</l>
+               <l>It kills the bad, but to the good, it is</l>
+               <l>The Gate, the Key, and Porter too, to bliſſe.</l>
+               <l>You Nobler Sons of honour, who pretend</l>
+               <l>To live link'd revolutions without end,</l>
+               <l>Your hopes are empty, for I dare averre</l>
+               <pb n="2" facs="tcp:114105:3"/>
+               <l> The Path to glory is to ſtudy her.</l>
+            </lg>
+            <lg>
+               <l>Pardon great Saint, if thy low Vaſſalls praiſe,</l>
+               <l>Eclips the ſplendor of thy burniſh't rais:</l>
+               <l>We know dull ſolid Bodies have the fate,</l>
+               <l>The bright ones luſter to reverberate:</l>
+               <l>So the dim ſuperficies of the Moone</l>
+               <l>Darts light and vertue by reflection.</l>
+               <l>But as a glaſſe when the foil's peecemeale rent,</l>
+               <l>And fretted into Marble doth preſent</l>
+               <l>Defective formes, yet all thoſe parts agree</l>
+               <l>In (the worlds beauty) exact Symetrie:</l>
+               <l>So I deform'd with ſin; yet know my breaſt,</l>
+               <l>(Cauſe her I honour'd) with ſome goodneſſe bleſt,</l>
+               <l>Render a lame Effigies. For to doe't well,</l>
+               <l>I ſhould in Vertue be her parallell.</l>
+               <l>Red Modeſty now checks my Zeale, and ſayes</l>
+               <l>The leaner Tribute of imperfect praiſe,</l>
+               <l>Injur's her holy Duſt, and bids retract</l>
+               <l>Our forward hand from this prophaner act.</l>
+               <l>To raiſe a houſe ſhall I deny a ſtone,</l>
+               <l>Becauſe I bring no Rock? doe all? or none?</l>
+               <l>All have not Hecatombs to ſacrifice:</l>
+               <l>'Tis worſe to be ungratefull, then unwiſe.</l>
+               <l>And though I have not Muſe enough to ſwell,</l>
+               <l>My Verſe into a great bulk'd Chronicle,</l>
+               <l>I will ſo paint, that, by the foot we'll gueſſe</l>
+               <l>At the proportion of Hercules.</l>
+            </lg>
+            <lg>
+               <l>Her minde was even, knew no Civill Jar,</l>
+               <l>But ſtill maintain'd a brave defenſive War,</l>
+               <l>Againſt ſly Vice, and by a noble will,</l>
+               <l>All quarrelling extreames did reconcile.</l>
+               <l>Nor was ſhe peg'd to Fortunes Wheele: when chance</l>
+               <pb n="3" facs="tcp:114105:3"/>
+               <l> Her ſtreames into an Ocean did advance,</l>
+               <l>Majeſtique Pride could ne're uſurp a Throne</l>
+               <l>Upon her brow. 'Twas ſweetneſſe Garriſon.</l>
+            </lg>
+            <lg>
+               <l>Grim ſorrow raiſ'd no rough frowne there. For he</l>
+               <l>That ſaw her manage infelicity,</l>
+               <l>Would court its lovelineſſe, and ſweare that Fate</l>
+               <l>Might give a prouder, but no happier ſtate.</l>
+               <l>Nor were theſe paleated ſhews: No ſhe</l>
+               <l>In reall deeds outvied Hipocriſie.</l>
+               <l>She courted greatneſſe with no ſtudied grace,</l>
+               <l>Nor look'd o're wretches with a quarter-face;</l>
+               <l>Nor did ſhe ere extenuate a crime,</l>
+               <l>Cauſe 'twas exalted on the Front of Time.</l>
+               <l>But Oh! I feele an earth-quake, through my heart,</l>
+               <l>Some ſtrugling ſpirit would a highway part,</l>
+               <l>As when the pureſt water doth aſpire</l>
+               <l>To Ayre, by rarefaction tis made fire:</l>
+               <l>So would my griefe twiſt into rage, and I</l>
+               <l>Should write a Satire, and no Elegie;</l>
+               <l>Did I not know, Duty binds us to mourne</l>
+               <l>Thoſe whom wee honoured, not ſcourge thoſe wee ſcorne.</l>
+            </lg>
+            <lg>
+               <l>But I am yet too narrow, glory runs</l>
+               <l>(Like feathered Time) in nimble motions.</l>
+               <l>He's but halfe good, who only doth arive</l>
+               <l>(Worths lazy vacuum) the negative.</l>
+               <l>But here all active Vertues meet in one,</l>
+               <l>And made a Heavenly Conſtellation.</l>
+               <l>Fill'd with more laſting and refulgent Stars,</l>
+               <l>Then in the Concave of th' eight Orbe appears.</l>
+               <l>But a weake ray as eaſily might ſpie</l>
+               <l>The twinkling ſparks conven'd i'th Galary</l>
+               <l>Obſerve their names and natures, and hope here</l>
+               <pb n="4" facs="tcp:114105:4"/>
+               <l> T'Epitomiſe them on our paper Spheare:</l>
+               <l>As I contemplate them. For Vertues were</l>
+               <l>Fluid, and Momentany things in her.</l>
+               <l>A Midwife to ſome one each houre became,</l>
+               <l>And made inſcriptions in the leaves of Fame;</l>
+               <l>For they be letters in Gods great booke ſet,</l>
+               <l>And are to every one an Alphabet,</l>
+               <l>Span'd to a number: Yet cauſe they admit</l>
+               <l>Of tranſpoſitions, become infinite.</l>
+            </lg>
+            <lg>
+               <l>Thus goodneſſe writes her Annals. Thus each man</l>
+               <l>Is his owne Volume and Hiſtorian.</l>
+               <l>And here were ſo compoſed that we might vote</l>
+               <l>Gods holy finger a third Table wrote,</l>
+               <l>And inſtituted her Example, Law,</l>
+               <l>Whence future Ages ſhould a paterne draw,</l>
+               <l>To pace their lives by. For ſhe, ſhe alone</l>
+               <l>Was Quinteſſenc'd to a perfection.</l>
+               <l>Vertues (thoſe rags of worth) which ſometimes flame,</l>
+               <l>Then ſleepe a pauſe, Agues of Zeale we name;</l>
+               <l>But here enchain'd, in an entireneſſe flow'd,</l>
+               <l>And were united to the totall, good:</l>
+               <l>So when the creeping ſtreames joine forces, than</l>
+               <l>They loſe themſelves, and are an Ocean.</l>
+               <l>So Silver, Gold, and ſprightfull Mercury,</l>
+               <l>(Deified to Omnipotence) deny</l>
+               <l>Their ancient cognizance, and only owne,</l>
+               <l>The mighty title of Elixer ſtone.</l>
+               <l>Nor was (this world of worth) this great ſoule ſent</l>
+               <l>Cloſe Priſoner to a mud-wall'd Tenement:</l>
+               <l>No, no, it had a Temple ſo divine,</l>
+               <l>Doomſday (perhaps) may change, but ſcarce refine.</l>
+               <l>Her ſmiles (more cheerefull then the Suns) on earth,</l>
+               <pb n="5" facs="tcp:114105:4"/>
+               <l> Did Antidate almoſt eſſentiall mirth.</l>
+               <l>But Heaven is deni'd us heere; the bleſt we ſee</l>
+               <l>Are moſt obnoxious to deſtiny.</l>
+               <l>Long ſince that Mountainous Prophetique ſtone,</l>
+               <l>Hath the foure boundleſſe Monarchys or'throwne;</l>
+               <l>Another (no leſſe terrible)<note n="*" place="margin">Alluding to her diſeaſe.</note> hath ſlaine</l>
+               <l>The fiſt, the laſt, and greateſt too againe:</l>
+               <l>For ſhe was world, and Paramount alone;</l>
+               <l>All Paſſions bowed to her Dominion.</l>
+               <l>This Empire was too meane, ſhe's flown more high,</l>
+               <l>And ſits enthron'd in Gods owne Hierarchy,</l>
+               <l>And only leaves her holy Duſt in paune,</l>
+               <l>That when the world's like her, ſhe'll come againe.</l>
+            </lg>
+            <lg>
+               <l>Sleepe honoured Aſhes in your peacefull bed</l>
+               <l>Sleepe, ſleepe, and never be diſquieted.</l>
+               <l>We'll feaſt on your Memoriall; and Fame</l>
+               <l>Shall be the Page, and Uſher to your name.</l>
+               <l>Where ere it goes wing'd ſighs ſhall hovering ſtay,</l>
+               <l>And liquid pearls ſhall pave the corrall way.</l>
+               <l>And ſince I raiſe no Tombe, nor crowne thy Hearſe</l>
+               <l>With faſting Pyramids of weeping Verſe.</l>
+               <l>Like to ſome Votary I will confine</l>
+               <l>Humble Devotions to thy ſacred Shrine;</l>
+               <l>And if (as Heaven-indited Rolls declare)</l>
+               <l>As Victims, gratefull thoughts accepted are,</l>
+               <l>Pious perfumes each minute ſhall ariſe,</l>
+               <l>My Heart the Altar, Prieſt, and Sacrifice.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
